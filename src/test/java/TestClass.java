@@ -5,6 +5,5 @@ public class TestClass {
 
         System.out.println(Dictionary.isEnglishWord("rei"));
 
-
     }
 }
